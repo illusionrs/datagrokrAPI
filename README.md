@@ -4,4 +4,4 @@
   * nodemon index
 ## Deployed at
   * https://datagrokrapi.herokuapp.com
-  * Please Documentation File to see ALL ENDPOINTS
+  * Please see Documentation File to see ALL ENDPOINTS
